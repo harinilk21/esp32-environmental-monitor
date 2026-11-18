@@ -37,7 +37,7 @@ The ESP32 Environmental Monitoring System measures temperature and humidity usin
 - Humidity: 70%
 
 ## Simulation
-Wokwi Project Link: Add your Wokwi project URL here.
+Open ESP32 Environmental Monitoring Simulation: https://wokwi.com/projects/480939037016287233
 
 ## Testing Environment
 Wokwi ESP32 Simulator.
