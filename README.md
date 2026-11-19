@@ -43,6 +43,14 @@ Open ESP32 Environmental Monitoring Simulation: https://wokwi.com/projects/48093
 Wokwi ESP32 Simulator.
 
 **Note:** This project was developed and tested using simulation. Physical hardware testing has not been performed.
+## Project Screenshots
+
+### Complete Circuit
+![Circuit](images/circuit.png)
+
+### Normal Condition
+![Normal Output](images/normal-output.png)
+
 
 ## Future Improvements
 - Wi-Fi connectivity
